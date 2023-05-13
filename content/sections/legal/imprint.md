@@ -5,7 +5,7 @@ sectionId: imprint
 #### Information pursuant to § 5 TMG
 
 Daniel Babilonia<br />
-YOURSTREET<br />
+El Chagualo<br />
 Medellín<br />
 Colombia
 
