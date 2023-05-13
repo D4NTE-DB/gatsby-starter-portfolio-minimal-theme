@@ -1,0 +1,13 @@
+{
+  "name": "Personal Portfolio",
+  "email": "dantealigheri.1998@gmail.com",
+  "description": "Contact me to work together.",
+  "image": {
+    "src": "../../images/Imagen1.png",
+    "alt": "Personal Pic"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "intro": "Hello",
+  "heroPhoto": {
+    "src": "../../images/Image1.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Daniel Babilonia",
+  "subtitle": {
+    "prefix": "I am a ",
+    "highlight": "Web Developer",
+    "suffix": "."
+  },
+  "description": "With a wide experience either in Front-End or Back-End.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": false
+  }
+}
